@@ -56,7 +56,6 @@ const ImgBG = styled.img`
 `;
 
 const StarsContainer = styled.div`
-    border: 10px solid #ff0000;
     width: 63vw;
     height: 100vh;
     margin: auto;
@@ -87,7 +86,7 @@ const Star = styled.object`
     width: 15vw;
     height: 15vw;
     margin: 3px;
-    margin-top: -13.375rem;
+    margin-top: -15.375rem;
     margin-left: 6.72rem;
 `;
 
